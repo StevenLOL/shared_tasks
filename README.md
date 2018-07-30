@@ -9,7 +9,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 | [First Shared Task on Aggression Identification](https://sites.google.com/view/trac1/shared-task) | NLP | | 2018 | NO || | 2018 April 25| |
 | [Predicting Current and Future Psychological Health from Childhood Essays](http://clpsych.org/shared-task-2018/) | NLP | CLPSYCH | 2018 |NO| || 2018 June 5| |
 |[Duolingo Shared Task on Second Language Acquisition Modeling](http://sharedtask.duolingo.com/)|NLP|BEA Workshop|2018|NO|||March 19, 2018||
-|[Spoken CALL Shared Task](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)|SPEECH|Interspeech|2018|NO|||||
+|[Spoken CALL Shared Task](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)|SPEECH|Interspeech|2018|NO|||14 Feb 2018||
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 ||||||||||
