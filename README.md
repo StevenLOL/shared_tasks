@@ -1,9 +1,9 @@
 # shared_tasks
 A collection of machine learning competitions , shared tasks .
 
-| Tables   |      Are      |  Cool | Active? | New entry | Start Date | End Date| $ |
+| Name   |      Area      |  Year | Active? | New entry | Start Date | End Date| $ |
 |----------|:-------------:|------:|------: | ------: |------: |------: | ------: |
-| col 1 is |  left-aligned | $1600 | | | | |
+| (Shared task on automatic identification of verbal multiword expressions)[http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_04_LAW-MWE-CxG_2018___lb__COLING__rb__&subpage=CONF_40_Shared_Task] |  NLP | 2018 | NO | | | |
 | col 2 is |    centered   |   $12 || | | |
 | col 3 is | right-aligned |    $1 || | | |
     
