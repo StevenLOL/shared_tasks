@@ -1,5 +1,5 @@
 # shared_tasks
-A collection of machine learning competitions , shared tasks .
+A collection of machine learning competitions , shared tasks , workshops ...
 
 | Name   |      Area      |  Year | Active? | New entry | Start Date | End Date| $ |
 |----------|:-------------:|------:|------: | ------: |------: |------: | ------: |
