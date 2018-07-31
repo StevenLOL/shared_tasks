@@ -14,11 +14,10 @@ A collection of machine learning competitions , shared tasks , workshops ...
 |[Spoken CALL Shared Task](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)|SPEECH|Interspeech|2018|NO|||14 Feb 2018||
 |[Implicit Emotion Shared Task](http://implicitemotions.wassa2018.com/)|NLP|WASSA|2018|NO|||9 July 2018||
 |[NLPCC 2018 Shared Task](http://tcci.ccf.org.cn/conference/2018/taskdata.php)|NLP|NLPCC|2018|NO|||||
-| [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
-
-
 |[The 4th Computational Linguistics Scientific Document Summarization Shared Task](http://wing.comp.nus.edu.sg/~cl-scisumm2018/)|NLP|ACL|2018|NO|||May 4 2018||
 |[Third Workshop on Computational Approaches to Linguistic Code-switching](https://code-switching.github.io/2018/)|NLP|ACL|2018|NO|||19 Apr 2018||
+| [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
+
 ||||||||||
 ||||||||||
 ||||||||||
