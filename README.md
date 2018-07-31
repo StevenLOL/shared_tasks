@@ -16,7 +16,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 |[Implicit Emotion Shared Task](http://implicitemotions.wassa2018.com/)|NLP|WASSA|2018|NO|||9 July 2018||
 |[NLPCC 2018 Shared Task](http://tcci.ccf.org.cn/conference/2018/taskdata.php)|NLP|NLPCC|2018|NO|||||
 |[The 4th Computational Linguistics Scientific Document Summarization Shared Task](http://wing.comp.nus.edu.sg/~cl-scisumm2018/)|NLP|ACL|2018|NO|||May 4 2018||
-|[http://www.statmt.org/wmt18/index.html](http://www.statmt.org/wmt18/index.html)|NLP|WMT18|2018|NO|NO||||
+|[THIRD CONFERENCE ON MACHINE TRANSLATION](http://www.statmt.org/wmt18/index.html)|NLP|WMT18|2018|NO|NO||||
 |[Third Workshop on Computational Approaches to Linguistic Code-switching](https://code-switching.github.io/2018/)|NLP|ACL|2018|NO|||19 Apr 2018||
 |[haspeede / hate speech detection](http://www.di.unito.it/~tutreeb/haspeede-evalita18/index.html)|NLP||2018|YES|YES|3rd April 2018|3rd September 2018||
 |[Germeval Task 2018 — Shared Task on the Identification of Offensive Language](https://projects.fzai.h-da.de/iggsa/important-dates/)|NLP|Germeval|2018|YES|?||August 7, 2018||
