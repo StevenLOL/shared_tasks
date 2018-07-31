@@ -17,8 +17,8 @@ A collection of machine learning competitions , shared tasks , workshops ...
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 
-||||||||||
-||||||||||
+|[The 4th Computational Linguistics Scientific Document Summarization Shared Task](http://wing.comp.nus.edu.sg/~cl-scisumm2018/)|NLP|ACL|2018|NO|||May 4 2018||
+|[Third Workshop on Computational Approaches to Linguistic Code-switching](https://code-switching.github.io/2018/)|NLP|ACL|2018|NO|||19 Apr 2018||
 ||||||||||
 ||||||||||
 ||||||||||
