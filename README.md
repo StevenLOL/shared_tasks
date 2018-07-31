@@ -12,7 +12,15 @@ A collection of machine learning competitions , shared tasks , workshops ...
 | [First Shared Task on Aggression Identification](https://sites.google.com/view/trac1/shared-task) | NLP | | 2018 | NO |NO| | 2018 April 25| |
 | [Predicting Current and Future Psychological Health from Childhood Essays](http://clpsych.org/shared-task-2018/) | NLP | CLPSYCH | 2018 |NO| || 2018 June 5| |
 |[Duolingo Shared Task on Second Language Acquisition Modeling](http://sharedtask.duolingo.com/)|NLP|BEA Workshop|2018|NO|||March 19, 2018||
+|[Computational Paralinguistics ChallengE (ComParE)](http://compare.openaudio.eu/)|SPEECH|Interspeech|2018|NO|||14 Feb 2018||
 |[Spoken CALL Shared Task](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)|SPEECH|Interspeech|2018|NO|||14 Feb 2018||
+|[The First DIHARD Speech Diarization Challenge](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Novel Paradigms for Direct Synthesis based on Speech-Related Biosignals](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Speech Recognition for Indian Languages](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Deep Neural Networks: How Can We Interpret What They Learned?](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Low Resource Speech Recognition Challenge for Indian Languages](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Integrating Speech Science and Technology for Clinical Applications](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
+|[Speech Technologies for Code-Switching in Multilingual Communities](http://interspeech2018.org/program-special-sessions.html)|SPEECH|Interspeech|2018|NO|||||
 |[Implicit Emotion Shared Task](http://implicitemotions.wassa2018.com/)|NLP|WASSA|2018|NO|||9 July 2018||
 |[NLPCC 2018 Shared Task](http://tcci.ccf.org.cn/conference/2018/taskdata.php)|NLP|NLPCC|2018|NO|||||
 |[The 4th Computational Linguistics Scientific Document Summarization Shared Task](http://wing.comp.nus.edu.sg/~cl-scisumm2018/)|NLP|ACL|2018|NO|||May 4 2018||
