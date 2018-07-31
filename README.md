@@ -19,7 +19,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 |[Third Workshop on Computational Approaches to Linguistic Code-switching](https://code-switching.github.io/2018/)|NLP|ACL|2018|NO|||19 Apr 2018||
 |[haspeede / hate speech detection](http://www.di.unito.it/~tutreeb/haspeede-evalita18/index.html)|NLP||2018|YES|YES|3rd April 2018|3rd September 2018||
 |[Germeval Task 2018 — Shared Task on the Identification of Offensive Language](https://projects.fzai.h-da.de/iggsa/important-dates/)|NLP|Germeval|2018|YES|?||August 7, 2018||
-|[MediaEval Benchmarking Initiative for Multimedia Evaluation](http://www.multimediaeval.org/mediaeval2018/emotionalimpact/)|SPEECH/NLP|MediaEval|2018|2018|?||1 October 2018||
+|[MediaEval Benchmarking Initiative for Multimedia Evaluation](http://www.multimediaeval.org/mediaeval2018/emotionalimpact/)|SPEECH/NLP|MediaEval|2018|YES|?||1 October 2018||
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 
