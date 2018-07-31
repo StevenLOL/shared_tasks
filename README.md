@@ -11,6 +11,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 |[Duolingo Shared Task on Second Language Acquisition Modeling](http://sharedtask.duolingo.com/)|NLP|BEA Workshop|2018|NO|||March 19, 2018||
 |[Spoken CALL Shared Task](https://regulus.unige.ch/spokencallsharedtask_2ndedition/)|SPEECH|Interspeech|2018|NO|||14 Feb 2018||
 |[Implicit Emotion Shared Task](http://implicitemotions.wassa2018.com/)|NLP|WASSA|2018|NO|||9 July 2018||
+|[NLPCC 2018 Shared Task](http://tcci.ccf.org.cn/conference/2018/taskdata.php)|NLP|NLPCC|2018|NO|||||
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 
