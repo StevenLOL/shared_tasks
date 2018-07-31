@@ -16,7 +16,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 |[NLPCC 2018 Shared Task](http://tcci.ccf.org.cn/conference/2018/taskdata.php)|NLP|NLPCC|2018|NO|||||
 |[The 4th Computational Linguistics Scientific Document Summarization Shared Task](http://wing.comp.nus.edu.sg/~cl-scisumm2018/)|NLP|ACL|2018|NO|||May 4 2018||
 |[Third Workshop on Computational Approaches to Linguistic Code-switching](https://code-switching.github.io/2018/)|NLP|ACL|2018|NO|||19 Apr 2018||
-|haspeede / hate speech detection|NLP||2018|YES|YES||3rd September 2018||
+|[haspeede / hate speech detection](http://www.di.unito.it/~tutreeb/haspeede-evalita18/index.html)|NLP||2018|YES|YES||3rd September 2018||
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 
