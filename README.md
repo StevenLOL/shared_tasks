@@ -3,6 +3,7 @@ A collection of machine learning competitions , shared tasks , workshops ...
 
 | Name   |      Area      |By |  Year | Active? | New entry | Start Date | End Date| $ |
 |----------|:-------------:|------:|------:|------: | ------: |------: |------: | ------: |
+|[11th Workshop on Building and Using Comparable Corpora](https://comparable.limsi.fr/bucc2018/bucc2018-task.html)|NLP|BUCC|2018|NO|||||
 | [Shared task on automatic identification of verbal multiword expressions](http://multiword.sourceforge.net/PHITE.php?sitesig=CONF&page=CONF_04_LAW-MWE-CxG_2018___lb__COLING__rb__&subpage=CONF_40_Shared_Task) |  NLP |COLING| 2018 | NO | NO | |2018 MAY 08 | |
 | [Fifth Workshop on NLP for Similar Languages, Varieties and Dialects](http://alt.qcri.org/vardial2018) |    NLP   | COLING | 2018 | NO | | | ||
 | [CoNLL 2018 Shared Task](http://universaldependencies.org/conll18/data.html) | NLP |   CONLL | 2018 | NO | | |||
@@ -15,7 +16,6 @@ A collection of machine learning competitions , shared tasks , workshops ...
 | [International Workshop on Semantic Evaluation 2019](http://alt.qcri.org/semeval2019/)|NLP|SemEval|2019|YES|YES|10 Jan 2019|31 Jan 2019||
 
 
-||||||||||
 ||||||||||
 ||||||||||
 ||||||||||
